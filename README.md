@@ -135,8 +135,6 @@ CREATE TABLE area_conocimiento (
 
 ## 👥 División de Trabajo - Fase 1
 
-| Estudiante | Tablas Asignadas | Cantidad |
-|------------|-----------------|----------|
-| [david ] | `enfoque`, `aspecto_normativo`, `practica_estrategia`, `universidad` | 4 tablas |
-| [olman] | `aliado`, `car_innovacion`, `area_conocimiento` | 3 tablas |
+<img width="958" height="206" alt="image" src="https://github.com/user-attachments/assets/7262c355-cfe3-4bdd-a228-123113120f13" />
+|
 
